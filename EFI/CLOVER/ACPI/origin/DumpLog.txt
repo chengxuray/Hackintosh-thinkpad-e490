@@ -1,0 +1,197 @@
+9:304  3:283  Found BIOS RSDP at F0140
+9:304  0:000  Printing ACPI tables from RSDP F0140 ...
+9:304  0:000   F0140: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+9:304  0:000    (Xsdt: 7AE0B188, Rsdt: 7AE0B0C4)
+9:304  0:000    7AE0B188: 'XSDT', 'TP-R0Y', Rev: 1, Len: 276
+9:304  0:000    7AE0B0C4: 'RSDT', 'TP-R0Y', Rev: 1, Len: 156
+9:304  0:000    Tables in Xsdt: 30
+9:304  0:000    0. 79520000: 'FACP', 'TP-R0Y', Rev: 6, Len: 276
+9:304  0:000        (Dsdt: 794F8000, Facs: 7AC04000, XDsdt: 794F8000, XFacs: 0)
+9:304  0:000        794F8000: 'DSDT', 'CFL', Rev: 2, Len: 143703
+9:308  0:003        7AC04000: 'FACS', Ver: 2, Len: 64
+9:308  0:000    1. 79A61000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6940
+9:308  0:000    2. 79A60000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+9:308  0:000    3. 79A27000: 'SSDT', 'DptfTabl', Rev: 2, Len: 14750
+9:308  0:000    4. 79526000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12605
+9:308  0:000    5. 79525000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1114
+9:308  0:000    6. 79524000: 'SSDT', 'MeSsdt', Rev: 2, Len: 70
+9:308  0:000    7. 79523000: 'TPM2', 'TP-R0Y', Rev: 3, Len: 52
+9:308  0:000    8. 7AC22000: 'UEFI', 'TP-R0Y', Rev: 1, Len: 66
+9:308  0:000    9. 79521000: 'SSDT', 'PerfTune', Rev: 2, Len: 1328
+9:308  0:000    10. 7951F000: 'HPET', 'TP-R0Y', Rev: 1, Len: 56
+9:308  0:000    11. 7951E000: 'APIC', 'TP-R0Y', Rev: 3, Len: 300
+9:308  0:000    12. 7951D000: 'MCFG', 'TP-R0Y', Rev: 1, Len: 60
+9:308  0:000    13. 7951C000: 'ECDT', 'TP-R0Y', Rev: 1, Len: 83
+9:308  0:000    14. 794F5000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 8798
+9:308  0:000    15. 794F4000: 'BOOT', 'TP-R0Y', Rev: 1, Len: 40
+9:308  0:000    16. 794F3000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 3299
+9:308  0:000    17. 794F2000: 'LPIT', 'TP-R0Y', Rev: 1, Len: 148
+9:308  0:000    18. 794F1000: 'WSMT', 'TP-R0Y', Rev: 1, Len: 40
+9:308  0:000    19. 794EF000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 5279
+9:308  0:000    20. 794EE000: 'DBGP', 'TP-R0Y', Rev: 1, Len: 52
+9:308  0:000    21. 794ED000: 'DBG2', 'TP-R0Y', Rev: 0, Len: 84
+9:308  0:000    22. 794EC000: 'MSDM', 'TP-R0Y', Rev: 3, Len: 85
+9:308  0:000    23. 7930F000: 'BATB', 'TP-R0Y', Rev: 2, Len: 74
+9:308  0:000    24. 7850C000: 'DMAR', 'TP-R0Y', Rev: 1, Len: 168
+9:308  0:000    25. 7850B000: 'SSDT', 'AmdTabl', Rev: 1, Len: 2274
+9:308  0:000    26. 78509000: 'NHLT', 'TP-R0Y', Rev: 0, Len: 45
+9:308  0:000    27. 78508000: 'SSDT', 'SgRpSsdt', Rev: 2, Len: 2007
+9:308  0:000    28. 78506000: 'FPDT', 'TP-R0Y', Rev: 1, Len: 68
+9:308  0:000    29. 7ABEE000: 'UEFI', 'TP-R0Y', Rev: 1, Len: 278
+9:308  0:000    Tables in Rsdt: 30
+9:308  0:000    0. 79520000: 'FACP', 'TP-R0Y', Rev: 6, Len: 276
+9:308  0:000        (Dsdt: 794F8000, Facs: 7AC04000, XDsdt: 794F8000, XFacs: 0)
+9:308  0:000        794F8000: 'DSDT', 'CFL', Rev: 2, Len: 143703
+9:312  0:003        7AC04000: 'FACS', Ver: 2, Len: 64
+9:312  0:000    1. 79A61000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6940
+9:312  0:000    2. 79A60000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+9:312  0:000    3. 79A27000: 'SSDT', 'DptfTabl', Rev: 2, Len: 14750
+9:312  0:000    4. 79526000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12605
+9:312  0:000    5. 79525000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1114
+9:312  0:000    6. 79524000: 'SSDT', 'MeSsdt', Rev: 2, Len: 70
+9:312  0:000    7. 79523000: 'TPM2', 'TP-R0Y', Rev: 3, Len: 52
+9:312  0:000    8. 7AC22000: 'UEFI', 'TP-R0Y', Rev: 1, Len: 66
+9:312  0:000    9. 79521000: 'SSDT', 'PerfTune', Rev: 2, Len: 1328
+9:312  0:000    10. 7951F000: 'HPET', 'TP-R0Y', Rev: 1, Len: 56
+9:312  0:000    11. 7951E000: 'APIC', 'TP-R0Y', Rev: 3, Len: 300
+9:312  0:000    12. 7951D000: 'MCFG', 'TP-R0Y', Rev: 1, Len: 60
+9:312  0:000    13. 7951C000: 'ECDT', 'TP-R0Y', Rev: 1, Len: 83
+9:312  0:000    14. 794F5000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 8798
+9:312  0:000    15. 794F4000: 'BOOT', 'TP-R0Y', Rev: 1, Len: 40
+9:312  0:000    16. 794F3000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 3299
+9:312  0:000    17. 794F2000: 'LPIT', 'TP-R0Y', Rev: 1, Len: 148
+9:312  0:000    18. 794F1000: 'WSMT', 'TP-R0Y', Rev: 1, Len: 40
+9:312  0:000    19. 794EF000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 5279
+9:312  0:000    20. 794EE000: 'DBGP', 'TP-R0Y', Rev: 1, Len: 52
+9:312  0:000    21. 794ED000: 'DBG2', 'TP-R0Y', Rev: 0, Len: 84
+9:312  0:000    22. 794EC000: 'MSDM', 'TP-R0Y', Rev: 3, Len: 85
+9:312  0:000    23. 7930F000: 'BATB', 'TP-R0Y', Rev: 2, Len: 74
+9:312  0:000    24. 7850C000: 'DMAR', 'TP-R0Y', Rev: 1, Len: 168
+9:312  0:000    25. 7850B000: 'SSDT', 'AmdTabl', Rev: 1, Len: 2274
+9:312  0:000    26. 78509000: 'NHLT', 'TP-R0Y', Rev: 0, Len: 45
+9:312  0:000    27. 78508000: 'SSDT', 'SgRpSsdt', Rev: 2, Len: 2007
+9:312  0:000    28. 78506000: 'FPDT', 'TP-R0Y', Rev: 1, Len: 68
+9:312  0:000    29. 7ABEE000: 'UEFI', 'TP-R0Y', Rev: 1, Len: 278
+9:312  0:000  Found UEFI Acpi 2.0 RSDP at 7AE0D014
+9:312  0:000  Saving ACPI tables from RSDP 7AE0D014 to EFI\CLOVER\ACPI\origin ...
+9:312  0:000   7AE0D014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+9:423  0:110    (Xsdt: 7AE0B188, Rsdt: 7AE0B0C4)
+9:423  0:000    7AE0B188: 'XSDT', 'TP-R0Y', Rev: 1, Len: 276 -> XSDT.aml
+9:476  0:052    7AE0B0C4: 'RSDT', 'TP-R0Y', Rev: 1, Len: 156 -> RSDT.aml
+9:527  0:050    Tables in Xsdt: 30
+9:527  0:000    0. 79520000: 'FACP', 'TP-R0Y', Rev: 6, Len: 276 -> FACP.aml
+9:580  0:053        (Dsdt: 794F8000, Facs: 7AC04000, XDsdt: 794F8000, XFacs: 0)
+9:580  0:000        794F8000: 'DSDT', 'CFL', Rev: 2, Len: 143703 -> DSDT.aml
+9:657  0:076        7AC04000: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+9:711  0:053    1. 79A61000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6940 -> SSDT-0-CpuSsdt.aml (Found hidden SSDT 9 pcs)
+9:764  0:053        * 7ABB3098: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1424  53 53 44 54 90 05 00 00 02 4B 50 6D 52 65 66 00 Internal length = 1424 -> SSDT-x0_0-Cpu0Ist.aml
+9:818  0:053        * 7ABA5018: 'SSDT', 'ApIst', Rev: 2, Len: 1532  53 53 44 54 FC 05 00 00 02 23 50 6D 52 65 66 00 Internal length = 1532 -> SSDT-x0_1-ApIst.aml
+9:872  0:053        * 7ABA5698: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 1024  53 53 44 54 00 04 00 00 02 D9 50 6D 52 65 66 00 Internal length = 1024 -> SSDT-x0_2-Cpu0Cst.aml
+9:924  0:051        * 7ABB3B18: 'SSDT', 'ApCst', Rev: 2, Len: 778  53 53 44 54 0A 03 00 00 02 E9 50 6D 52 65 66 00 Internal length = 778 -> SSDT-x0_3-ApCst.aml
+9:980  0:055        * 75E29D18: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 283  53 53 44 54 1B 01 00 00 02 61 50 6D 52 65 66 00 Internal length = 283 -> SSDT-x0_4-Cpu0Hwp.aml
+10:034  0:054        * 75E34018: 'SSDT', 'ApHwp', Rev: 2, Len: 791  53 53 44 54 17 03 00 00 02 E3 50 6D 52 65 66 00 Internal length = 791 -> SSDT-x0_5-ApHwp.aml
+10:089  0:054        * 75E25018: 'SSDT', 'HwpLvt', Rev: 2, Len: 1828  53 53 44 54 24 07 00 00 02 CA 50 6D 52 65 66 00 Internal length = 1828 -> SSDT-x0_6-HwpLvt.aml
+10:144  0:055        * 7ABB3718: 'SSDT', 'Cpu0Psd', Rev: 2, Len: 244  53 53 44 54 F4 00 00 00 02 37 50 6D 52 65 66 00 Internal length = 244 -> SSDT-x0_7-Cpu0Psd.aml
+10:198  0:053        * 7ABA4018: 'SSDT', 'ApPsd', Rev: 2, Len: 2736  53 53 44 54 B0 0A 00 00 02 AB 50 6D 52 65 66 00 Internal length = 2736 -> SSDT-x0_8-ApPsd.aml
+10:252  0:054  
+10:252  0:000    2. 79A60000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389 -> SSDT-1-CtdpB.aml
+10:307  0:054    3. 79A27000: 'SSDT', 'DptfTabl', Rev: 2, Len: 14750 -> SSDT-2-DptfTabl.aml
+10:362  0:055    4. 79526000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12605 -> SSDT-3-SaSsdt.aml
+10:418  0:056    5. 79525000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1114 -> SSDT-4-Tpm2Tabl.aml
+10:477  0:059    6. 79524000: 'SSDT', 'MeSsdt', Rev: 2, Len: 70 -> SSDT-5-MeSsdt.aml
+10:567  0:089    7. 79523000: 'TPM2', 'TP-R0Y', Rev: 3, Len: 52 -> TPM2.aml
+10:629  0:061    8. 7AC22000: 'UEFI', 'TP-R0Y', Rev: 1, Len: 66 -> UEFI.aml
+10:690  0:061    9. 79521000: 'SSDT', 'PerfTune', Rev: 2, Len: 1328 -> SSDT-6-PerfTune.aml
+10:750  0:060    10. 7951F000: 'HPET', 'TP-R0Y', Rev: 1, Len: 56 -> HPET.aml
+10:816  0:065    11. 7951E000: 'APIC', 'TP-R0Y', Rev: 3, Len: 300 -> APIC.aml
+10:868  0:052    12. 7951D000: 'MCFG', 'TP-R0Y', Rev: 1, Len: 60 -> MCFG.aml
+10:928  0:060    13. 7951C000: 'ECDT', 'TP-R0Y', Rev: 1, Len: 83 -> ECDT.aml
+10:988  0:059    14. 794F5000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 8798 -> SSDT-7-ProjSsdt.aml
+11:048  0:060    15. 794F4000: 'BOOT', 'TP-R0Y', Rev: 1, Len: 40 -> BOOT.aml
+11:108  0:059    16. 794F3000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 3299 -> SSDT-8-UsbCTabl.aml
+11:165  0:057    17. 794F2000: 'LPIT', 'TP-R0Y', Rev: 1, Len: 148 -> LPIT.aml
+11:218  0:053    18. 794F1000: 'WSMT', 'TP-R0Y', Rev: 1, Len: 40 -> WSMT.aml
+11:281  0:063    19. 794EF000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 5279 -> SSDT-9-TbtTypeC.aml
+11:339  0:057    20. 794EE000: 'DBGP', 'TP-R0Y', Rev: 1, Len: 52 -> DBGP.aml
+11:398  0:058    21. 794ED000: 'DBG2', 'TP-R0Y', Rev: 0, Len: 84 -> DBG2.aml
+11:456  0:057    22. 794EC000: 'MSDM', 'TP-R0Y', Rev: 3, Len: 85 -> MSDM.aml
+11:522  0:065    23. 7930F000: 'BATB', 'TP-R0Y', Rev: 2, Len: 74 -> BATB.aml
+11:579  0:057    24. 7850C000: 'DMAR', 'TP-R0Y', Rev: 1, Len: 168 -> DMAR.aml
+11:636  0:056    25. 7850B000: 'SSDT', 'AmdTabl', Rev: 1, Len: 2274 -> SSDT-10-AmdTabl.aml
+11:694  0:057    26. 78509000: 'NHLT', 'TP-R0Y', Rev: 0, Len: 45 -> NHLT.aml
+11:752  0:058    27. 78508000: 'SSDT', 'SgRpSsdt', Rev: 2, Len: 2007 -> SSDT-11-SgRpSsdt.aml
+11:809  0:056    28. 78506000: 'FPDT', 'TP-R0Y', Rev: 1, Len: 68 -> FPDT.aml
+11:868  0:059    29. 7ABEE000: 'UEFI', 'TP-R0Y', Rev: 1, Len: 278 -> UEFI.aml
+11:965  0:096    Tables in Rsdt: 30
+11:965  0:000    0. 79520000: 'FACP', 'TP-R0Y', Rev: 6, Len: 276
+11:965  0:000        (Dsdt: 794F8000, Facs: 7AC04000, XDsdt: 794F8000, XFacs: 0)
+11:965  0:000        794F8000: 'DSDT', 'CFL', Rev: 2, Len: 143703
+11:969  0:003        7AC04000: 'FACS', Ver: 2, Len: 64
+11:969  0:000    1. 79A61000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6940
+11:969  0:000    2. 79A60000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+11:969  0:000    3. 79A27000: 'SSDT', 'DptfTabl', Rev: 2, Len: 14750
+11:969  0:000    4. 79526000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12605
+11:969  0:000    5. 79525000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1114
+11:969  0:000    6. 79524000: 'SSDT', 'MeSsdt', Rev: 2, Len: 70
+11:969  0:000    7. 79523000: 'TPM2', 'TP-R0Y', Rev: 3, Len: 52
+11:969  0:000    8. 7AC22000: 'UEFI', 'TP-R0Y', Rev: 1, Len: 66
+11:969  0:000    9. 79521000: 'SSDT', 'PerfTune', Rev: 2, Len: 1328
+11:969  0:000    10. 7951F000: 'HPET', 'TP-R0Y', Rev: 1, Len: 56
+11:969  0:000    11. 7951E000: 'APIC', 'TP-R0Y', Rev: 3, Len: 300
+11:969  0:000    12. 7951D000: 'MCFG', 'TP-R0Y', Rev: 1, Len: 60
+11:969  0:000    13. 7951C000: 'ECDT', 'TP-R0Y', Rev: 1, Len: 83
+11:969  0:000    14. 794F5000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 8798
+11:969  0:000    15. 794F4000: 'BOOT', 'TP-R0Y', Rev: 1, Len: 40
+11:969  0:000    16. 794F3000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 3299
+11:969  0:000    17. 794F2000: 'LPIT', 'TP-R0Y', Rev: 1, Len: 148
+11:969  0:000    18. 794F1000: 'WSMT', 'TP-R0Y', Rev: 1, Len: 40
+11:969  0:000    19. 794EF000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 5279
+11:969  0:000    20. 794EE000: 'DBGP', 'TP-R0Y', Rev: 1, Len: 52
+11:969  0:000    21. 794ED000: 'DBG2', 'TP-R0Y', Rev: 0, Len: 84
+11:969  0:000    22. 794EC000: 'MSDM', 'TP-R0Y', Rev: 3, Len: 85
+11:969  0:000    23. 7930F000: 'BATB', 'TP-R0Y', Rev: 2, Len: 74
+11:969  0:000    24. 7850C000: 'DMAR', 'TP-R0Y', Rev: 1, Len: 168
+11:969  0:000    25. 7850B000: 'SSDT', 'AmdTabl', Rev: 1, Len: 2274
+11:969  0:000    26. 78509000: 'NHLT', 'TP-R0Y', Rev: 0, Len: 45
+11:969  0:000    27. 78508000: 'SSDT', 'SgRpSsdt', Rev: 2, Len: 2007
+11:969  0:000    28. 78506000: 'FPDT', 'TP-R0Y', Rev: 1, Len: 68
+11:969  0:000    29. 7ABEE000: 'UEFI', 'TP-R0Y', Rev: 1, Len: 278
+11:969  0:000  Found UEFI Acpi 1.0 RSDP at 7AE0D000
+11:969  0:000  Printing ACPI tables from RSDP 7AE0D000 ...
+11:969  0:000   7AE0D000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+11:969  0:000    (Rsdt: 7AE0B000)
+11:969  0:000    7AE0B000: 'RSDT', 'TP-R0Y', Rev: 1, Len: 156
+11:969  0:000    Tables in Rsdt: 30
+11:969  0:000    0. 79520000: 'FACP', 'TP-R0Y', Rev: 6, Len: 276
+11:969  0:000        (Dsdt: 794F8000, Facs: 7AC04000, XDsdt: 794F8000, XFacs: 0)
+11:969  0:000        794F8000: 'DSDT', 'CFL', Rev: 2, Len: 143703
+11:973  0:003        7AC04000: 'FACS', Ver: 2, Len: 64
+11:973  0:000    1. 79A61000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6940
+11:973  0:000    2. 79A60000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+11:973  0:000    3. 79A27000: 'SSDT', 'DptfTabl', Rev: 2, Len: 14750
+11:973  0:000    4. 79526000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12605
+11:973  0:000    5. 79525000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1114
+11:973  0:000    6. 79524000: 'SSDT', 'MeSsdt', Rev: 2, Len: 70
+11:973  0:000    7. 79523000: 'TPM2', 'TP-R0Y', Rev: 3, Len: 52
+11:973  0:000    8. 7AC22000: 'UEFI', 'TP-R0Y', Rev: 1, Len: 66
+11:973  0:000    9. 79521000: 'SSDT', 'PerfTune', Rev: 2, Len: 1328
+11:973  0:000    10. 7951F000: 'HPET', 'TP-R0Y', Rev: 1, Len: 56
+11:973  0:000    11. 7951E000: 'APIC', 'TP-R0Y', Rev: 3, Len: 300
+11:973  0:000    12. 7951D000: 'MCFG', 'TP-R0Y', Rev: 1, Len: 60
+11:973  0:000    13. 7951C000: 'ECDT', 'TP-R0Y', Rev: 1, Len: 83
+11:973  0:000    14. 794F5000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 8798
+11:973  0:000    15. 794F4000: 'BOOT', 'TP-R0Y', Rev: 1, Len: 40
+11:973  0:000    16. 794F3000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 3299
+11:973  0:000    17. 794F2000: 'LPIT', 'TP-R0Y', Rev: 1, Len: 148
+11:973  0:000    18. 794F1000: 'WSMT', 'TP-R0Y', Rev: 1, Len: 40
+11:973  0:000    19. 794EF000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 5279
+11:973  0:000    20. 794EE000: 'DBGP', 'TP-R0Y', Rev: 1, Len: 52
+11:973  0:000    21. 794ED000: 'DBG2', 'TP-R0Y', Rev: 0, Len: 84
+11:973  0:000    22. 794EC000: 'MSDM', 'TP-R0Y', Rev: 3, Len: 85
+11:973  0:000    23. 7930F000: 'BATB', 'TP-R0Y', Rev: 2, Len: 74
+11:973  0:000    24. 7850C000: 'DMAR', 'TP-R0Y', Rev: 1, Len: 168
+11:973  0:000    25. 7850B000: 'SSDT', 'AmdTabl', Rev: 1, Len: 2274
+11:973  0:000    26. 78509000: 'NHLT', 'TP-R0Y', Rev: 0, Len: 45
+11:973  0:000    27. 78508000: 'SSDT', 'SgRpSsdt', Rev: 2, Len: 2007
+11:973  0:000    28. 78506000: 'FPDT', 'TP-R0Y', Rev: 1, Len: 68
+11:973  0:000    29. 7ABEE000: 'UEFI', 'TP-R0Y', Rev: 1, Len: 278
